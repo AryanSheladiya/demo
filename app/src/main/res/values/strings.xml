@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Resume Maker</string>
+
+    <string name="textview_1">RESUME</string>
+    <string name="textview_2">Language</string>
+    <string name="textview_3">Gender</string>
+    <string name="textview_4">Caste</string>
+    <string name="textview_5">Hobbies</string>
+    <string name="textview_6">Educational Qualification</string>
+    <string name="textview_7">Occupation</string>
+    <string name="textview_8">Job Experience</string>
+    <string name="textview_9">Skills</string>
+    <string name="textview_10">Date Of Barth</string>
+    <string name="textview_11">Personal Details</string>
+    <string name="textview_12">Education</string>
+
+    <string name="hint_1">Your Name</string>
+    <string name="hint_2">Phone Number</string>
+    <string name="hint_3">E-mail</string>
+    <string name="hint_4">Address</string>
+    <string name="hint_5">Your Language</string>
+    <string name="hint_6">Hobbies</string>
+    <string name="hint_7">Your Occupation</string>
+    <string name="hint_8">Experience</string>
+    <string name="hint_9">Skills</string>
+    <string name="hint_10">Degree</string>
+    <string name="hint_11">Unversity</string>
+    <string name="hint_12">Percentage</string>
+    <string name="hint_13">Year</string>
+    <string name="hint_14">Company Name</string>
+    <string name="hint_15">16-05-2005</string>
+
+    <string name="button_1">Male</string>
+    <string name="button_2">Female</string>
+    <string name="button_3">Other</string>
+
+    <string name="button_4">OBC</string>
+    <string name="button_5">ST</string>
+
+    <string name="button_7">Submit</string>
+
+    <dimen name="sdp_10">10dp</dimen>
+    <dimen name="sdp_5">5dp</dimen>
+    <dimen name="sdp_20">20dp</dimen>
+    <dimen name="sdp_25">25dp</dimen>
+    <dimen name="ssp_30">30sp</dimen>
+    <dimen name="ssp_20">20sp</dimen>
+    <dimen name="sdp_30">30dp</dimen>
+</resources>
